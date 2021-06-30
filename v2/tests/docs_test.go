@@ -28,8 +28,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arangodb/go-driver/v2/arangodb"
-	"github.com/arangodb/go-driver/v2/arangodb/shared"
+	"github.com/michabub/go-driver/v2/arangodb"
+	"github.com/michabub/go-driver/v2/arangodb/shared"
 	"github.com/stretchr/testify/require"
 )
 

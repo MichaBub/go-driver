@@ -27,7 +27,7 @@ import (
 	"strings"
 	"sync"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 	velocypack "github.com/arangodb/go-velocypack"
 )
 

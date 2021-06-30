@@ -25,7 +25,7 @@ package test
 import (
 	"fmt"
 
-	"github.com/arangodb/go-driver"
+	"github.com/michabub/go-driver"
 )
 
 type Operator string

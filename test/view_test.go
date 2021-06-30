@@ -28,7 +28,7 @@ import (
 	"net/http"
 	"testing"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 
 	"github.com/stretchr/testify/require"
 )

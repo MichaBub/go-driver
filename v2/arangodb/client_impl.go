@@ -23,7 +23,7 @@
 package arangodb
 
 import (
-	"github.com/arangodb/go-driver/v2/connection"
+	"github.com/michabub/go-driver/v2/connection"
 )
 
 func NewClient(connection connection.Connection) Client {

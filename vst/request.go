@@ -29,9 +29,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/arangodb/go-driver/http"
+	"github.com/michabub/go-driver/http"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 	velocypack "github.com/arangodb/go-velocypack"
 )
 

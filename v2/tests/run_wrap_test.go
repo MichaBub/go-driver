@@ -34,8 +34,8 @@ import (
 	"github.com/rs/zerolog/log"
 	"golang.org/x/net/http2"
 
-	"github.com/arangodb/go-driver/v2/arangodb"
-	"github.com/arangodb/go-driver/v2/connection"
+	"github.com/michabub/go-driver/v2/arangodb"
+	"github.com/michabub/go-driver/v2/connection"
 )
 
 type Wrapper func(t *testing.T, client arangodb.Client)

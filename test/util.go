@@ -37,7 +37,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 )
 
 type testEnv interface {

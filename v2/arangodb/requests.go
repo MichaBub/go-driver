@@ -25,7 +25,7 @@ package arangodb
 import (
 	"context"
 
-	"github.com/arangodb/go-driver/v2/connection"
+	"github.com/michabub/go-driver/v2/connection"
 )
 
 type Requests interface {

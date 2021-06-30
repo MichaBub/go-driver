@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

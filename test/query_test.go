@@ -27,7 +27,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/arangodb/go-driver"
+	"github.com/michabub/go-driver"
 	"github.com/stretchr/testify/require"
 )
 

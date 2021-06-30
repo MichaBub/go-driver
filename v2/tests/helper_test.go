@@ -28,9 +28,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arangodb/go-driver/v2/arangodb/shared"
+	"github.com/michabub/go-driver/v2/arangodb/shared"
 
-	"github.com/arangodb/go-driver/v2/arangodb"
+	"github.com/michabub/go-driver/v2/arangodb"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 )

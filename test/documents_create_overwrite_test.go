@@ -28,7 +28,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/arangodb/go-driver"
+	"github.com/michabub/go-driver"
 	"github.com/dchest/uniuri"
 	"github.com/stretchr/testify/require"
 )

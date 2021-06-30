@@ -23,7 +23,7 @@
 package jwt
 
 import (
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 	jg "github.com/golang-jwt/jwt"
 )
 
