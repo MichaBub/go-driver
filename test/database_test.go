@@ -31,7 +31,7 @@ import (
 	"github.com/dchest/uniuri"
 	"github.com/stretchr/testify/require"
 
-	"github.com/arangodb/go-driver"
+	"github.com/michabub/go-driver"
 )
 
 // databaseName is helper to create database name in non-colliding way

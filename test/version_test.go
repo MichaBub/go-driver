@@ -25,7 +25,7 @@ package test
 import (
 	"testing"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 )
 
 // TestVersion tests Version functions.

@@ -35,7 +35,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arangodb/go-driver/util/connection/wrappers"
+	"github.com/michabub/go-driver/util/connection/wrappers"
 
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
@@ -43,11 +43,11 @@ import (
 
 	_ "net/http/pprof"
 
-	driver "github.com/arangodb/go-driver"
-	"github.com/arangodb/go-driver/http"
-	"github.com/arangodb/go-driver/jwt"
-	"github.com/arangodb/go-driver/vst"
-	"github.com/arangodb/go-driver/vst/protocol"
+	driver "github.com/michabub/go-driver"
+	"github.com/michabub/go-driver/http"
+	"github.com/michabub/go-driver/jwt"
+	"github.com/michabub/go-driver/vst"
+	"github.com/michabub/go-driver/vst/protocol"
 )
 
 var (

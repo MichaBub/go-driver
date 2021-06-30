@@ -26,7 +26,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/arangodb/go-driver"
+	"github.com/michabub/go-driver"
 )
 
 type driverErrorCheckFunc func(err error) (bool, error)

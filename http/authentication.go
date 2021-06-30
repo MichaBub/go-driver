@@ -30,7 +30,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 )
 
 // ErrAuthenticationNotChanged is returned when authentication is not changed.

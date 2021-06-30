@@ -28,7 +28,7 @@ import (
 
 	"github.com/dchest/uniuri"
 
-	"github.com/arangodb/go-driver"
+	"github.com/michabub/go-driver"
 	"github.com/stretchr/testify/require"
 )
 

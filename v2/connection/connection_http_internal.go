@@ -33,7 +33,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/arangodb/go-driver/v2/log"
+	"github.com/michabub/go-driver/v2/log"
 	"github.com/google/uuid"
 	"github.com/pkg/errors"
 	_ "golang.org/x/net/http2"

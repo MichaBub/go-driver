@@ -33,11 +33,11 @@ import (
 	"testing"
 	"time"
 
-	driver "github.com/arangodb/go-driver"
-	"github.com/arangodb/go-driver/agency"
-	httpdriver "github.com/arangodb/go-driver/http"
-	"github.com/arangodb/go-driver/jwt"
-	"github.com/arangodb/go-driver/util"
+	driver "github.com/michabub/go-driver"
+	"github.com/michabub/go-driver/agency"
+	httpdriver "github.com/michabub/go-driver/http"
+	"github.com/michabub/go-driver/jwt"
+	"github.com/michabub/go-driver/util"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

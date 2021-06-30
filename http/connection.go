@@ -37,9 +37,9 @@ import (
 	"sync"
 	"time"
 
-	driver "github.com/arangodb/go-driver"
-	"github.com/arangodb/go-driver/cluster"
-	"github.com/arangodb/go-driver/util"
+	driver "github.com/michabub/go-driver"
+	"github.com/michabub/go-driver/cluster"
+	"github.com/michabub/go-driver/util"
 	velocypack "github.com/arangodb/go-velocypack"
 )
 

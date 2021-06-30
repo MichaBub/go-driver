@@ -23,7 +23,7 @@
 package arangodb
 
 import (
-	"github.com/arangodb/go-driver/v2/arangodb/shared"
+	"github.com/michabub/go-driver/v2/arangodb/shared"
 	"github.com/pkg/errors"
 )
 

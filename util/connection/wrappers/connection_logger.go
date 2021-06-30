@@ -28,7 +28,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/arangodb/go-driver"
+	"github.com/michabub/go-driver"
 	"github.com/pkg/errors"
 )
 

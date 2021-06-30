@@ -27,7 +27,7 @@ import (
 	"os"
 	"testing"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 )
 
 // TestServerMode creates a database and checks the various server modes.

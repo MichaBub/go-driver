@@ -32,7 +32,7 @@ import (
 	"testing"
 	"time"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 
 	errors "github.com/pkg/errors"
 )

@@ -29,7 +29,7 @@ import (
 	"testing"
 	"time"
 
-	driver "github.com/arangodb/go-driver"
+	driver "github.com/michabub/go-driver"
 )
 
 func checkEnabled(t *testing.T, c driver.Client, ctx context.Context) {

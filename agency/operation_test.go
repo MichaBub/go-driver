@@ -25,7 +25,7 @@ package agency_test
 import (
 	"testing"
 
-	"github.com/arangodb/go-driver/agency"
+	"github.com/michabub/go-driver/agency"
 	"github.com/stretchr/testify/require"
 )
 

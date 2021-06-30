@@ -27,8 +27,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/arangodb/go-driver/v2/arangodb/shared"
-	"github.com/arangodb/go-driver/v2/connection"
+	"github.com/michabub/go-driver/v2/arangodb/shared"
+	"github.com/michabub/go-driver/v2/connection"
 )
 
 func newCollectionDocumentRead(collection *collection) *collectionDocumentRead {

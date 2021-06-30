@@ -26,8 +26,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/arangodb/go-driver/v2/arangodb/shared"
-	"github.com/arangodb/go-driver/v2/connection"
+	"github.com/michabub/go-driver/v2/arangodb/shared"
+	"github.com/michabub/go-driver/v2/connection"
 )
 
 func newDatabase(c *client, name string, modifiers ...connection.RequestModifier) *database {
